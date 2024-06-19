@@ -10,10 +10,11 @@
 
 ](<Screenshot 2024-06-19 at 00.00.20.png>)
 ![
+<img width="959" alt="Screenshot 2024-06-18 at 23 59 10" src="https://github.com/Martinxmaina/assignment2/assets/106775880/e9f86e64-0f93-4432-80f0-3678e43b7529">
     
 ](<Screenshot 2024-06-18 at 23.59.10.png>)
 
-
+<img width="888" alt="Screenshot 2024-06-19 at 00 00 20" src="https://github.com/Martinxmaina/assignment2/assets/106775880/cb7bd90a-6d8b-423a-93ac-ea7b909c5431">
 ## Step 2: Install a Text Editor or Integrated Development Environment (IDE)
 Select and Install Visual Studio Code
 1.	Visit https://code.visualstudio.com/Download
@@ -22,7 +23,7 @@ Select and Install Visual Studio Code
 ![
     
 ](<Screenshot 2024-06-19 at 00.02.49.png>)
-
+<img width="805" alt="Screenshot 2024-06-19 at 00 02 49" src="https://github.com/Martinxmaina/assignment2/assets/106775880/d350bad7-c7fe-49e2-80b8-1642448487bc">
 ## Step 3: Set Up Version Control System
 ### Install Git
 1.	Visit https://git-scm.com/download/win 
